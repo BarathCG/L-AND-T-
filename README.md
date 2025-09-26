@@ -18,7 +18,7 @@ All work was completed collaboratively in a group of three members.
 **Overview:**  
 A responsive photo gallery showcasing images in a clean layout with interactive modals. Users can click on images to view enlarged versions using Bootstrap modals, providing an interactive and user-friendly experience.  
 
-**Report:** [📄 PHOTO_GALLERY.pdf](PHOTO%20GALLERY.pdf)
+**Report:** [📄 PHOTO_GALLERY.pdf](PHOTO%20GALLERY%20l%20and%20t.pdf)
 
 **Key Features:**
 - Responsive gallery layout using Bootstrap grid system  
@@ -31,7 +31,7 @@ A responsive photo gallery showcasing images in a clean layout with interactive 
 **Overview:**  
 A responsive web form demonstrating client-side validation using JavaScript. The form includes text, email, and password inputs, with dynamic error messages to guide users and Bootstrap styling for a clean interface.  
   
-**Report:** [📄 FORM_VALIDATION.pdf](FORM%20VALIDATION.pdf)
+**Report:** [📄 FORM_VALIDATION.pdf](FORM%20VALIDATION%20l%20and%20t.pdf)
 
 **Key Features:**
 - Client-side validation for name, email, and password  
